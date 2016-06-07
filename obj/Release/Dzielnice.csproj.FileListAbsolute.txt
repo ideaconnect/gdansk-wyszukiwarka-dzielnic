@@ -1,0 +1,9 @@
+C:\Users\idct-ntbk\Documents\Visual Studio 2013\Projects\Dzielnice\bin\Release\DzielniceGdanska.exe.config
+C:\Users\idct-ntbk\Documents\Visual Studio 2013\Projects\Dzielnice\bin\Release\DzielniceGdanska.exe
+C:\Users\idct-ntbk\Documents\Visual Studio 2013\Projects\Dzielnice\bin\Release\DzielniceGdanska.pdb
+C:\Users\idct-ntbk\Documents\Visual Studio 2013\Projects\Dzielnice\obj\Release\Dzielnice.csprojResolveAssemblyReference.cache
+C:\Users\idct-ntbk\Documents\Visual Studio 2013\Projects\Dzielnice\obj\Release\Dzielnice.Form1.resources
+C:\Users\idct-ntbk\Documents\Visual Studio 2013\Projects\Dzielnice\obj\Release\Dzielnice.Properties.Resources.resources
+C:\Users\idct-ntbk\Documents\Visual Studio 2013\Projects\Dzielnice\obj\Release\Dzielnice.csproj.GenerateResource.Cache
+C:\Users\idct-ntbk\Documents\Visual Studio 2013\Projects\Dzielnice\obj\Release\DzielniceGdanska.exe
+C:\Users\idct-ntbk\Documents\Visual Studio 2013\Projects\Dzielnice\obj\Release\DzielniceGdanska.pdb
